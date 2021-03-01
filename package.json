@@ -52,7 +52,7 @@
     "globby": "^11.0.2",
     "htmlparser2": "^5.0.1",
     "ignore": "^5.1.4",
-    "inquirer": "^7.0.4",
+    "inquirer": "^8.0.0",
     "kebabcase": "1.0.1",
     "lodash.pull": "4.1.0",
     "meow": "^9.0.0",
