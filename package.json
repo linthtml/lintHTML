@@ -50,7 +50,7 @@
     "cosmiconfig": "7.0.0",
     "global-modules": "^2.0.0",
     "globby": "^11.0.2",
-    "htmlparser2": "^5.0.1",
+    "htmlparser2": "^6.0.1",
     "ignore": "^5.1.4",
     "inquirer": "^7.0.4",
     "kebabcase": "1.0.1",
